@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Hyperactvty
-- 👀 I’m interested in learning Discord bots and anything that can bring communities together.
-- 🌱 I’m currently learning `C#`, `Python`
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Brayden. I like creating programs and biking.
+I am open to work!
 
 <!---
 Hyperactvty/Hyperactvty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
